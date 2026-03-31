@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "npm --prefix cloudstorage run dev",
+    "build": "npm --prefix cloudstorage run build",
+    "lint": "npm --prefix cloudstorage run lint",
+    "preview": "npm --prefix cloudstorage run preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.2.0",
+    "tailwindcss": "^4.2.0"
+  }
+}
